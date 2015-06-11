@@ -1,7 +1,7 @@
 <?php
 /**
  * The template for displaying Archive pages.
- *
+ * blabla
  * Learn more: http://codex.wordpress.org/Template_Hierarchy
  *
  * @package sparkling
